@@ -1,0 +1,56 @@
+Remove,Fjarlægja
+None,Ekkert
+"Select Search Type","Veldu leitaraðferð"
+Country,Land
+Search,Leita
+Custom,Sérsniðið
+"Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn."
+All,Allt
+"Are you sure?","Ertu viss?"
+"Shopping Cart",Karfa
+"Clear Shopping Cart","Tæma körfu"
+"Terms and Conditions",Skilmálar
+"Product was not registered","Varan er ekki skráð"
+"Password Help","Passorð hjálp"
+"Last login","Siðasta innskráning"
+"Sign Out",Útskráning
+Login,Innskráning
+"Search Term",Leitarorð
+"Search Terms",Leitarorð
+"New Search","Ný leit"
+"Search Query",Leitarorð
+"Back to Shopping Cart","Tilbaka til körfu"
+"Sales Rule",Sölureglur
+"Allowed Scopes","Leyfð svið"
+"You need more permissions to apply some of the rule updates.","Þú hefur ekki réttindi til að vista þessar reglubreytingar."
+"You need more permissions to access website ""%1"".","Þú hefur ekki réttindi til að nálgast vefsíðuna ""%1""."
+"Role Scopes",Hlutverkasvið
+Help,Hjálp
+"Related Search Terms","Skyld leitunarorð"
+"Related search terms","Skyld leitunarorð"
+"Manage Shopping Cart","Sjá um vörukörfu"
+"Clear my shopping cart","Tæma körfu"
+"Add to Shopping Cart","Setja í körfu"
+"View Shopping Cart","Sýna körfu"
+"FTP Login","FTP Innskráning"
+"Read Details","Lesa smáatriði"
+"Mark as Read","Merkja sem lesið"
+"Messages Inbox","Innhólf skilaboða"
+"You have %1 new system messages","Þú átt %1 ný kerfisskilaboð"
+"You have %1 new system message","Þú átt %1 ný kerfisskilaboð"
+close,loka
+Notifications,Tilkynningar
+"Please select messages.","Vinsamlega veldu skilaboð."
+"1 Hour","1 klst."
+"2 Hours","2 klst."
+"6 Hours","6 klst."
+"12 Hours","12 klst."
+"24 Hours","24 klst."
+critical,Alvarlegt
+major,meiriháttar
+minor,minniháttar
+notice,tilkynning
+"Wrong message type","Röng gerð skilaboða"
+"Wrong notification ID specified.","Rangt númer tilkynningar."
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} er ekki heppilegt til notkunar nema við prófanir. Við mæltum með að breyta þessari stillingu á <a href=""%1"">stillingasíðu</a>."
+"Login Options",Innskráningsmöguleikar
