@@ -1,40 +1,14 @@
-Remove,Fjarlægja
-None,Ekkert
-"Select Search Type","Veldu leitaraðferð"
-Country,Land
-Search,Leita
-Custom,Sérsniðið
-"Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn."
 All,Allt
-"Are you sure?","Ertu viss?"
-"Shopping Cart",Karfa
-"Clear Shopping Cart","Tæma körfu"
-"Terms and Conditions",Skilmálar
-"Product was not registered","Varan er ekki skráð"
-"Password Help","Passorð hjálp"
-"Last login","Siðasta innskráning"
-"Sign Out",Útskráning
-Login,Innskráning
-"Search Term",Leitarorð
-"Search Terms",Leitarorð
-"New Search","Ný leit"
-"Search Query",Leitarorð
-"Back to Shopping Cart","Tilbaka til körfu"
-"Sales Rule",Sölureglur
+None,Ekkert
 "Allowed Scopes","Leyfð svið"
 "You need more permissions to apply some of the rule updates.","Þú hefur ekki réttindi til að vista þessar reglubreytingar."
 "You need more permissions to access website ""%1"".","Þú hefur ekki réttindi til að nálgast vefsíðuna ""%1""."
 "Role Scopes",Hlutverkasvið
-Help,Hjálp
-"Related Search Terms","Skyld leitunarorð"
-"Related search terms","Skyld leitunarorð"
-"Manage Shopping Cart","Sjá um vörukörfu"
-"Clear my shopping cart","Tæma körfu"
-"Add to Shopping Cart","Setja í körfu"
-"View Shopping Cart","Sýna körfu"
-"FTP Login","FTP Innskráning"
+Custom,Sérsniðið
 "Read Details","Lesa smáatriði"
 "Mark as Read","Merkja sem lesið"
+"Are you sure?","Ertu viss?"
+Remove,Fjarlægja
 "Messages Inbox","Innhólf skilaboða"
 "You have %1 new system messages","Þú átt %1 ný kerfisskilaboð"
 "You have %1 new system message","Þú átt %1 ný kerfisskilaboð"
@@ -53,4 +27,103 @@ notice,tilkynning
 "Wrong message type","Röng gerð skilaboða"
 "Wrong notification ID specified.","Rangt númer tilkynningar."
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} er ekki heppilegt til notkunar nema við prófanir. Við mæltum með að breyta þessari stillingu á <a href=""%1"">stillingasíðu</a>."
+Close,Loka
+"Manage Shopping Cart","Sjá um vörukörfu"
+"Clear my shopping cart","Tæma körfu"
+"Add to Shopping Cart","Setja í körfu"
+Customers,Viðskiptavinir
+"Shopping Cart",Karfa
+"You removed the items.","Þú fjarlægðir atriðin."
+"You removed the item.","Þú fjarlægðir atriðið."
+"You added %1 to your shopping cart.","Þú bættir við %1 í körfuna þína."
+"You cannot add a product.","Þú getur ekki bætt við vöru."
+"Order by SKU","Raða samkvæmt SKU"
+"Availability: Out of stock.","Fáanleiki: Ekki til á lager."
+"The file is empty.","Skráin er tóm."
+"Yes, for Everyone","Já, fyrir alla"
+No,Nei
+"Shopping Cart Items",Körfuatriði
+Qty,Magn
+Discount,Afsláttur
+Action,Aðgerð
+"Please select","Vinsamlega veldu"
+"No item specified.","Ekkert atriði tilgreint."
+"SKU number",SKU-númer
+"Upload File","Upphlaða skrá"
+"Remove Row","Fjarlægja röð"
+"View Shopping Cart","Sýna körfu"
+"Customer Groups",Viðskiptavinahópar
+"Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn."
+"Sales Rule",Sölureglur
+"Related Search Terms","Skyld leitunarorð"
+"Related search terms","Skyld leitunarorð"
+"Search Query",Leitarorð
+Uses,Notar
+Synonym,Samheiti
+"--Please Select--","--Vinsamlega veldu--"
+"Command was not found.","Skipun fannst ekki."
+Configuration,Stilling
+Done,Lokið
+Retry,Endurreyna
+"Topic %1","Viðfangsefni %1"
+Details,Ítarupplýsingar
+Search,Leita
+"Sign Out",Útskráning
+Country,Land
+"FTP Login","FTP Innskráning"
+"Product was not registered","Varan er ekki skráð"
+"Clear Shopping Cart","Tæma körfu"
+Login,Innskráning
+"Terms and Conditions",Skilmálar
+"Page not found.","Síða fannst ekki."
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Takk fyrir að hafa samband við okkur með athugasemdum og spurningum. Við munum svara þér mjög fljótlega."
+"Name is missing","Nafn vantar"
+"Comment is missing","Athugasemd vantar"
+"Invalid email address","Ógilt rafpóstfang"
+"Write Us","Skrifaðu okkur"
+Name,Nafn
+Email,Rafpóstur
+"Phone Number",Símanúmer
+Submit,Senda
+Phone,Sími
+Message,Skilaboð
+"Contact Us","Hafa samband við okkur"
+"Name: %name","Nafn: %name"
 "Login Options",Innskráningsmöguleikar
+"Select Search Type","Veldu leitaraðferð"
+"Back to Shopping Cart","Tilbaka til körfu"
+Help,Hjálp
+"Search Terms",Leitarorð
+Orders,Pantanir
+"Submit Comment","Senda athugasemd"
+"Submit Order","Senda pöntun"
+Cancel,"Hætta við"
+"Payment Method",Greiðsluaðferð
+"Please select a customer","Vinsamlega veldu viðskiptavin"
+"Create New Customer","Skapa nýjan viðskiptavin"
+From,Frá
+To,Til
+Configure,Stilla
+Product,Vara
+Price,Verð
+Select,Velja
+Quantity,Magn
+"Search Term",Leitarorð
+"New Search","Ný leit"
+"Remove %1","Fjarlægja %1"
+Options,Valmöguleikar
+"records found","færslur fundnar"
+selected,valið
+of,af
+Filters,Síur
+Add,"Bæta við"
+"Something went wrong.","Eitthvað fór úrskeiðis."
+Yes,Já
+options,valmöguleikar
+Selected,Valið
+"Select All","Velja allt"
+"Deselect All","Afvelja allt"
+from,frá
+to,til
+"Password Help","Passorð hjálp"
+"Last login","Siðasta innskráning"
