@@ -125,5 +125,74 @@ Selected,Valið
 "Deselect All","Afvelja allt"
 from,frá
 to,til
+Back,"Til baka"
+"Delete Role","Eyða hlutverki"
+"Are you sure you want to do this?","Ert þú viss um að þú viljir gera þetta?"
+"Save Role","Vista hlutverk"
+Roles,Hlutverk
+"Add New Role","Bæta við nýju hlutverki"
+"Role Information",Hlutverksupplýsingar
+"Role Users",Hlutverksnotendur
+"User ID",Notandaauðkenni
+"User Name",Notandanafn
+"First Name",Fornafn
+"Last Name",Eftirnafn
+Status,Staða
+Active,Virkur
+Inactive,Óvirkur
+"Role Info",Hlutverksuppl.
+"Role Name",Hlutverksnafn
+"Your Password","Lykilorðið þitt"
+"Add New User","Bæta við nýjum notanda"
+Users,Notendur
+"Save User","Vista notanda"
+"Delete User","Eyða notanda"
+"Edit User '%1'","Breyta notandanum ‚%1‘"
+"New User","Nýr notandi"
+"User Email",Notandarafpóstur
+Password,Aðgangsorð
+"New Password","Nýtt aðgangsorð"
+"Password Confirmation",Aðgangsorðsstaðfesting
+Role,Hlutverk
+"User Information",Notandaupplýsingar
+"User Info",Notandauppl.
+"User Role",Notandahlutverk
+"Please correct this email address:","Vinsamlega leiðréttu þetta rafpóstfang:"
 "Password Help","Passorð hjálp"
+"Email address",Rafpóstfang
+"Reset Password","Endurstilla aðgangsorð"
+Resources,Auðlindir
+"Thank you,","Takk fyrir,"
+"New %changes for %user_name","Nýjar %changes fyrir %user_name"
+"Hello,","Halló,"
+"Thanks,","Takk,"
+"All Users","Allir notendur"
+"User Roles",Notandahlutverk
+"Password Change",Aðgangsorðsbreyting
+Unlock,Aflæsa
+ID,Auðkenni
+Username,Notandanafn
 "Last login","Siðasta innskráning"
+Failures,Mistök
+Unlocked,Aflæst
+Summary,Samantekt
+Settings,Stillingar
+Previous,Fyrri
+"Remove This Item","Fjarlægja þetta atriði"
+"Clear All","Hreinsa allt"
+"Shopping Options",Verslunarvalmöguleikar
+"Welcome to %store_name","Velkomin(n) í %store_name"
+"Welcome to %store_name.","Velkomin(n) í %store_name."
+Email:,Rafpóstur:
+Password:,Aðgangsorð:
+"Quick Checkout","Hröð afgreiðsla"
+"Proceed through checkout faster","Fara gegnum afgreiðslu hraðar"
+"Order Status",Pöntunarstaða
+"Manage Addresses","Stjórna staðföngum"
+"Order History",Pöntunarsaga
+Footer,Fótur
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Um okkur</a>"
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Viðskiptavinaþjónusta</a>"
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Opnunartími:<br /><span class=""no-link"">%store_hours</span>."
+"Shipping Info",Sendingaruppl.
+"Shipping Method",Sendingaraðferð
