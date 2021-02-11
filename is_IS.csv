@@ -59,36 +59,26 @@ Action,Aðgerð
 "Related search terms","Skyld leitunarorð"
 "Search Query",Leitarorð
 Uses,Notar
-Synonym,Samheiti
 "--Please Select--","--Vinsamlega veldu--"
-"Command was not found.","Skipun fannst ekki."
 Configuration,Stilling
 Done,Lokið
 Retry,Endurreyna
-"Topic %1","Viðfangsefni %1"
 Details,Ítarupplýsingar
 Search,Leita
 "Sign Out",Útskráning
 Country,Land
 "FTP Login","FTP Innskráning"
-"Product was not registered","Varan er ekki skráð"
 "Clear Shopping Cart","Tæma körfu"
 Login,Innskráning
 "Terms and Conditions",Skilmálar
 "Page not found.","Síða fannst ekki."
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Takk fyrir að hafa samband við okkur með athugasemdum og spurningum. Við munum svara þér mjög fljótlega."
-"Name is missing","Nafn vantar"
-"Comment is missing","Athugasemd vantar"
-"Invalid email address","Ógilt rafpóstfang"
 "Write Us","Skrifaðu okkur"
 Name,Nafn
 Email,Rafpóstur
 "Phone Number",Símanúmer
 Submit,Senda
-Phone,Sími
-Message,Skilaboð
 "Contact Us","Hafa samband við okkur"
-"Name: %name","Nafn: %name"
 "Login Options",Innskráningsmöguleikar
 "Select Search Type","Veldu leitaraðferð"
 "Back to Shopping Cart","Tilbaka til körfu"
@@ -103,6 +93,7 @@ Cancel,"Hætta við"
 "Create New Customer","Skapa nýjan viðskiptavin"
 From,Frá
 To,Til
+Message,Skilaboð
 Configure,Stilla
 Product,Vara
 Price,Verð
@@ -112,10 +103,10 @@ Quantity,Magn
 "New Search","Ný leit"
 "Remove %1","Fjarlægja %1"
 Options,Valmöguleikar
+Filters,Síur
 "records found","færslur fundnar"
 selected,valið
 of,af
-Filters,Síur
 Add,"Bæta við"
 "Something went wrong.","Eitthvað fór úrskeiðis."
 Yes,Já
@@ -162,10 +153,10 @@ Role,Hlutverk
 "Email address",Rafpóstfang
 "Reset Password","Endurstilla aðgangsorð"
 Resources,Auðlindir
-"Thank you,","Takk fyrir,"
-"New %changes for %user_name","Nýjar %changes fyrir %user_name"
 "Hello,","Halló,"
 "Thanks,","Takk,"
+"Thank you,","Takk fyrir,"
+"New %changes for %user_name","Nýjar %changes fyrir %user_name"
 "All Users","Allir notendur"
 "User Roles",Notandahlutverk
 "Password Change",Aðgangsorðsbreyting
@@ -175,8 +166,6 @@ Username,Notandanafn
 "Last login","Siðasta innskráning"
 Failures,Mistök
 Unlocked,Aflæst
-Summary,Samantekt
-Settings,Stillingar
 Previous,Fyrri
 "Remove This Item","Fjarlægja þetta atriði"
 "Clear All","Hreinsa allt"
@@ -191,16 +180,9 @@ Password:,Aðgangsorð:
 "Manage Addresses","Stjórna staðföngum"
 "Order History",Pöntunarsaga
 Footer,Fótur
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Um okkur</a>"
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Viðskiptavinaþjónusta</a>"
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Opnunartími:<br /><span class=""no-link"">%store_hours</span>."
-"Shipping Info",Sendingaruppl.
-"Shipping Method",Sendingaraðferð
-"About Us","Um okkur"
 Warning,Aðvörun
 Ok,"Í lagi"
 Next,Áfram
-"All ","Allt "
 more,meira
 Save,Vista
 Translate,Þýða
