@@ -102,6 +102,7 @@ Quantity,Magn
 "Search Term",Leitarorð
 "New Search","Ný leit"
 "Remove %1","Fjarlægja %1"
+Yes,Já
 Options,Valmöguleikar
 Filters,Síur
 "records found","færslur fundnar"
@@ -109,7 +110,6 @@ selected,valið
 of,af
 Add,"Bæta við"
 "Something went wrong.","Eitthvað fór úrskeiðis."
-Yes,Já
 options,valmöguleikar
 Selected,Valið
 "Select All","Velja allt"
@@ -184,7 +184,6 @@ Warning,Aðvörun
 Ok,"Í lagi"
 Next,Áfram
 more,meira
-Save,Vista
 Translate,Þýða
 "Invalid format.","Ógilt snið."
 "Empty Value.","Tómt gildi."
